@@ -26,7 +26,7 @@ The dataset contains 86 videos and consists of the following features:
 - Views, Likes, Dislikes, Comments: Interaction metrics from users.
 - Video Duration: Length of the videos in seconds.
 
-# 5. Data Preprocesing
+# 5. Data Preprocessing
 
 - **Remove Empty Columns and Rows**: Identify and remove any empty columns and rows.
 - **Remove Duplicates**: Deduplication of data to avoid redundancy.
