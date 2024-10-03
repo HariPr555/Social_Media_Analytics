@@ -5,7 +5,7 @@ A data-driven analysis of a YouTube channel focused on understanding video perfo
 
 
 # 1. Background
-In today's competitive YouTube environment, creators need more than just content to succeed—they need actionable insights derived from data. For a relatively new channel like Loresowhat, data analysis is essential for understanding what resonates with the audience. By analyzing metrics such as views, engagement rates, and audience retention, data analysis provides clarity on which types of videos perform best, which durations drive the most interaction, and where there's room for improvement. This project can help the channel optimize its content strategy, leading to higher viewership, improved engagement, and faster growth.
+In today's competitive YouTube environment, creators need more than just content to succeed, they need actionable insights derived from data. For a relatively new channel like Loresowhat, data analysis is essential for understanding what resonates with the audience. By analyzing metrics such as views, engagement rates, and audience retention, data analysis provides clarity on which types of videos perform best, which durations drive the most interaction, and where there's room for improvement. This project can help the channel optimize its content strategy, leading to higher viewership, improved engagement, and faster growth.
 
 # 2. Project Objectives
 - To explore how different types of content perform, especially comparing Regular videos and Shorts.
