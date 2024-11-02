@@ -1,6 +1,9 @@
 # Social_Media_Analytics
 A data-driven analysis of a YouTube channel focused on understanding video performance, user engagement, and content optimization. Utilizing Power BI, this project explores insights to drive channel growth through improved content strategies and audience interaction analysis.
 
+## Dashboard
+Please check it out !! [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDQzMTNiZTctYjJkYy00MjA3LTgzM2UtOWY3NDgxNTQzZmM4IiwidCI6ImVhOWI2YmUyLTU2ZjMtNGNhNS1iN2M2LWYyMDg3NmQ2YzA3MSJ9)
+
 ![Youtubr_analytics](https://github.com/user-attachments/assets/388a3691-d57d-4c44-9b70-385d7a45a193)
 
 
